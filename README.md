@@ -183,7 +183,3 @@ LOGURU_LEVEL=DEBUG uv run bot.py
 - [uv](https://docs.astral.sh/uv/): Python package management
 
 ---
-
-## Credits and license
-
-Based on the `simple-chatbot` example from the Pipecat project by Daily, licensed under the BSD 2-Clause License. Modified to run fully on Sarvam AI over WebRTC, and extended with the `FrameTap` debugging processor.
